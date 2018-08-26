@@ -1,0 +1,6 @@
+C:\Users\Lufus\Documents\Facens\2º Semestre\Programação Estruturada\Prj_Jogo_da_Velha\Prj_Jogo_da_Velha\bin\Debug\Prj_Jogo_da_Velha.exe.config
+C:\Users\Lufus\Documents\Facens\2º Semestre\Programação Estruturada\Prj_Jogo_da_Velha\Prj_Jogo_da_Velha\bin\Debug\Prj_Jogo_da_Velha.exe
+C:\Users\Lufus\Documents\Facens\2º Semestre\Programação Estruturada\Prj_Jogo_da_Velha\Prj_Jogo_da_Velha\bin\Debug\Prj_Jogo_da_Velha.pdb
+C:\Users\Lufus\Documents\Facens\2º Semestre\Programação Estruturada\Prj_Jogo_da_Velha\Prj_Jogo_da_Velha\obj\Debug\Prj_Jogo_da_Velha.csprojResolveAssemblyReference.cache
+C:\Users\Lufus\Documents\Facens\2º Semestre\Programação Estruturada\Prj_Jogo_da_Velha\Prj_Jogo_da_Velha\obj\Debug\Prj_Jogo_da_Velha.exe
+C:\Users\Lufus\Documents\Facens\2º Semestre\Programação Estruturada\Prj_Jogo_da_Velha\Prj_Jogo_da_Velha\obj\Debug\Prj_Jogo_da_Velha.pdb
